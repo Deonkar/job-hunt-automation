@@ -1,0 +1,8 @@
+{
+  "_for": "Example variant: backend roles. Setup writes one per target archetype in profile.json.",
+  "title": "Backend Engineer | Go, PostgreSQL, Kafka",
+  "summary": "Backend engineer with **3 years** building payment APIs; cut p99 latency **900ms to 120ms**.",
+  "skills_order": ["Languages", "Backend", "Data", "Cloud & DevOps"],
+  "experience": {"acme": ["pay", "lat"]},
+  "internships": false
+}

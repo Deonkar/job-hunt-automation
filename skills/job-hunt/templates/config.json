@@ -1,0 +1,53 @@
+{
+  "_about": "Template. Setup copies this to ~/.claude/job-hunt/data/config.json and fills it. Keys and secrets never go here: they go in ~/.claude/job-hunt/.env.",
+  "timezone": "",
+  "sheet_id": "",
+  "jobs_gid": 0,
+  "outreach_gid": null,
+  "companies_gid": null,
+  "resume_dir": "~/Desktop/job_resumes",
+  "pdf": "word",
+  "platforms": {
+    "linkedin": true,
+    "indeed": true,
+    "naukri": false,
+    "wellfound": true,
+    "yc_work_at_a_startup": true,
+    "country_portals": []
+  },
+  "quota": {
+    "daily_applications": [10, 15],
+    "secondary_daily": 5,
+    "linkedin_apply_daily": 5,
+    "linkedin_invites_daily": 15,
+    "linkedin_invites_weekly": 100,
+    "connect_per_run": 12,
+    "people_per_company": 5,
+    "min_fit_score": 45
+  },
+  "standing_yes": {
+    "linkedin_no_note_connections": false,
+    "naukri_daily_profile_edit": false
+  },
+  "naukri_headlines": [],
+  "routines": {
+    "company-scout-daily": "08:30",
+    "naukri-profile-daily": "09:00",
+    "global-job-search": "every 3h, 06:00-24:00",
+    "referral-outreach-daily": "12:00",
+    "linkedin-connect-daily": "14:00",
+    "recruiter-email-daily": "17:00",
+    "country-portals-daily": "18:30",
+    "outreach-sheet-actions": "20:00",
+    "weekly-cleanup": "Sun 10:30"
+  },
+  "employer_aliases": [],
+  "excluded_companies": [],
+  "excluded_countries": [],
+  "school_for_alumni_search": "",
+  "recruiter_email_tools": [],
+  "firecrawl": false,
+  "jev": false,
+  "sign_off": "",
+  "plain_punctuation": true
+}

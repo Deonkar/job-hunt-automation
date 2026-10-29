@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+*.env
+# Personal data never goes in this repo: it lives in ~/.claude/job-hunt/
+project/data/
+project/state/
+project/out/
+project/variants/
+*.docx
+*.pdf
+sheet_rows.tsv
+*-rows.json
+*-rows-out.json
+rows-*.json

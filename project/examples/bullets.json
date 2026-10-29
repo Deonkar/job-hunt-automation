@@ -1,0 +1,20 @@
+{
+  "_rules": "Example only. Every bullet restates a fact from your real resume. Alternates (key after the dot, e.g. 'pay.short') may shorten or re-order emphasis but never add a number, tool or claim. **x** marks bold. 'experience' and 'projects' are keyed by the keys in profile.json, in the same order.",
+  "experience": {
+    "acme": {
+      "pay": {"tags": ["payments", "backend"], "base": "Built the **payments API** handling 1.2M requests a day with idempotent retries.", "short": "Built the **payments API** (1.2M req/day)."},
+      "lat": {"tags": ["performance"], "base": "Cut p99 latency from **900ms to 120ms** with Redis caching and query tuning."}
+    },
+    "initech": {
+      "admin": {"tags": ["fullstack"], "base": "Maintained internal TypeScript admin tools used by 60 staff."}
+    }
+  },
+  "projects": {
+    "tool": {
+      "tb": {"tags": ["oss"], "base": "Open-source Go CLI toolbox with 300 GitHub stars.", "short": "Go CLI toolbox, 300 stars."}
+    }
+  },
+  "internships": [
+    {"title": "SWE Intern", "company": "Globex", "dates": "Jun 2020 - Aug 2020"}
+  ]
+}

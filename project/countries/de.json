@@ -1,0 +1,68 @@
+{
+  "name": "Germany",
+  "page": "A4",
+  "replace": [
+    [
+      "optimized",
+      "optimised"
+    ],
+    [
+      "Optimized",
+      "Optimised"
+    ]
+  ],
+  "replace_regex": [
+    [
+      "\\bJan (\\d{4})\\b",
+      "01/\\1"
+    ],
+    [
+      "\\bFeb (\\d{4})\\b",
+      "02/\\1"
+    ],
+    [
+      "\\bMar (\\d{4})\\b",
+      "03/\\1"
+    ],
+    [
+      "\\bApr (\\d{4})\\b",
+      "04/\\1"
+    ],
+    [
+      "\\bMay (\\d{4})\\b",
+      "05/\\1"
+    ],
+    [
+      "\\bJun (\\d{4})\\b",
+      "06/\\1"
+    ],
+    [
+      "\\bJul (\\d{4})\\b",
+      "07/\\1"
+    ],
+    [
+      "\\bAug (\\d{4})\\b",
+      "08/\\1"
+    ],
+    [
+      "\\bSep (\\d{4})\\b",
+      "09/\\1"
+    ],
+    [
+      "\\bOct (\\d{4})\\b",
+      "10/\\1"
+    ],
+    [
+      "\\bNov (\\d{4})\\b",
+      "11/\\1"
+    ],
+    [
+      "\\bDec (\\d{4})\\b",
+      "12/\\1"
+    ]
+  ],
+  "location_suffix": " · Open to relocation to Germany",
+  "work_auth": "Work permit: EU Blue Card on job offer",
+  "spoken_languages": true,
+  "_notes": "English CV for English-language postings (German Lebenslauf for German ads). Photo and DOB are customary but legally optional (AGG) and increasingly omitted at international tech firms: omitted here. MM/YYYY dates, CEFR language levels, work-permit line instead of nationality."
+}

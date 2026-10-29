@@ -1,0 +1,17 @@
+{
+  "name": "United Kingdom",
+  "page": "A4",
+  "replace": [
+    [
+      "optimized",
+      "optimised"
+    ],
+    [
+      "Optimized",
+      "Optimised"
+    ]
+  ],
+  "location_suffix": " · Open to relocation to the UK",
+  "work_auth": "Right to work: requires Skilled Worker visa sponsorship",
+  "_notes": "A4, up to two pages (one is right at this level), no photo/DOB (Equality Act 2010), British spelling, short profile at top, state right to work."
+}

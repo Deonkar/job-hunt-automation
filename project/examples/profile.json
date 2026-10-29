@@ -1,0 +1,171 @@
+{
+  "_about": "Example only (a made-up person). Setup writes your real one to data/profile.json from your resume and answers. Every skill listed here is one the resume builder may use; anything you can't back up in an interview stays out.",
+  "name": "Alex Example",
+  "headline": "Software Engineer | Backend & APIs | Go, Python, PostgreSQL",
+  "location": "Springfield, Exampleland",
+  "home_country": "Exampleland",
+  "field": "software engineering (backend)",
+  "email": "alex@example.com",
+  "phone": "+00 0000 000000",
+  "links": [
+    "https://linkedin.com/in/alex-example",
+    "https://github.com/alex-example"
+  ],
+  "summary": "Backend engineer with **3 years** building payment APIs; cut p99 latency **900ms to 120ms**.",
+  "education": [
+    {
+      "degree": "B.Sc. Computer Science",
+      "school": "Example University",
+      "grade": "GPA 3.6/4",
+      "years": "2017 - 2021"
+    }
+  ],
+  "experience": {
+    "full_time": [
+      {
+        "key": "acme",
+        "company": "Acme Corp",
+        "title": "Software Engineer",
+        "location": "Springfield",
+        "start": "2023-01",
+        "end": null,
+        "awards": [
+          "Engineer of the Quarter (Q2 2025)"
+        ]
+      },
+      {
+        "key": "initech",
+        "company": "Initech",
+        "title": "Junior Developer",
+        "location": "Remote",
+        "start": "2021-06",
+        "end": "2022-12"
+      }
+    ],
+    "internships": [
+      {
+        "company": "Globex",
+        "title": "SWE Intern",
+        "start": "2020-06",
+        "end": "2020-08",
+        "mode": "on-site"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "key": "tool",
+      "name": "Toolbox",
+      "stack": "Go, Redis",
+      "link": "https://github.com/alex-example/toolbox"
+    }
+  ],
+  "skills": {
+    "Languages": [
+      "Go",
+      "Python",
+      "TypeScript"
+    ],
+    "Backend": [
+      "gRPC",
+      "REST",
+      "Django"
+    ],
+    "Data": [
+      "PostgreSQL",
+      "Redis",
+      "Kafka"
+    ],
+    "Cloud & DevOps": [
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  "keyword_aliases": {
+    "Go": [
+      "golang"
+    ],
+    "PostgreSQL": [
+      "postgres"
+    ],
+    "Kubernetes": [
+      "k8s"
+    ]
+  },
+  "skills_beyond_resume": [],
+  "not_claimed": "Anything absent from skills above. Never add it to a resume; report it as a skill to learn.",
+  "spoken_languages": [
+    "English (C1)",
+    "Spanish (native)"
+  ],
+  "domains": [
+    "payments",
+    "marketplaces"
+  ],
+  "targets": [
+    {
+      "rank": 1,
+      "archetype": "backend",
+      "roles": [
+        "Backend Engineer",
+        "Software Engineer II"
+      ],
+      "where": "product companies, home country or remote"
+    },
+    {
+      "rank": 2,
+      "archetype": "platform",
+      "roles": [
+        "Platform Engineer"
+      ],
+      "where": "abroad with visa sponsorship"
+    }
+  ],
+  "search": {
+    "years": 3,
+    "regions": [
+      "Remote",
+      "UK",
+      "DE",
+      "NL",
+      "CA"
+    ],
+    "keywords": [
+      "software engineer",
+      "backend engineer",
+      "platform engineer"
+    ],
+    "include_title_words": [
+      "engineer",
+      "developer",
+      "sde",
+      "swe"
+    ],
+    "strong_title_words": [
+      "backend",
+      "platform",
+      "software engineer"
+    ],
+    "exclude_title_words": [
+      "staff",
+      "principal",
+      "manager",
+      "director",
+      "head",
+      "vp",
+      "architect",
+      "intern",
+      "internship",
+      "sales",
+      "solutions?",
+      "support",
+      "recruit\\w*",
+      "analyst",
+      "hardware",
+      "embedded",
+      "qa",
+      "test"
+    ]
+  }
+}

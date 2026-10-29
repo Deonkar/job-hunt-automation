@@ -1,0 +1,18 @@
+{
+  "name": "Netherlands",
+  "page": "A4",
+  "replace": [
+    [
+      "optimized",
+      "optimised"
+    ],
+    [
+      "Optimized",
+      "Optimised"
+    ]
+  ],
+  "location_suffix": " · Open to relocation to the Netherlands",
+  "work_auth": "Work permit: Highly Skilled Migrant (kennismigrant) via recognised sponsor",
+  "spoken_languages": true,
+  "_notes": "A4, 1-2 pages, direct and metric-led, photo optional (omitted in tech), CEFR language levels, kennismigrant route stated."
+}

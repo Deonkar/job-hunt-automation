@@ -1,0 +1,19 @@
+# Workflow: no-note LinkedIn connections at watchlist companies (daily)
+
+Read: `references/rules.md`.
+
+Builds a network inside every company on the watchlist ahead of time, so later referral asks can go straight to a DM. **Runs only when `config.standing_yes.linkedin_no_note_connections` is true**; otherwise end at once with one line. That standing yes covers only this: plain connection requests, **no note**, to people in the user's function and HR/recruiters at watchlist companies, without asking per person. Nothing else is sent: no notes, no DMs, no follow-ups.
+
+**Pace:**
+- **Phase 1, until every company has at least 1 person:** 1 person per company, up to 12 companies per run (about 80 companies in 7 days).
+- **Phase 2, after that:** top companies up to 5 people each, up to 12 requests per run, companies with live Jobs rows first (about 4 more weeks).
+- Never more than 12 requests per run, and always inside the shared cap (rules.md 5).
+
+**State**: `~/.claude/job-hunt/state/linkedin-connect.json` = `{"companies": {"<Company>": {"status": "open|full|skipped", "note": "", "people": [{name, profile_url, title, kind: "peer|hr", office_country, sent_at}]}}}`. A company is "full" at 5 people (or when no more suitable people exist), "skipped" when it has nobody suitable. Create if missing. The shared invite counter is `invites` in `~/.claude/job-hunt/state/outreach.json`.
+
+0. **Caps and end**: this run's budget = min(`quota.connect_per_run` (12), `quota.linkedin_invites_daily` (15) - invites today, `quota.linkedin_invites_weekly` (100) - invites this week). Budget 0: end with one line. Every watchlist company "full" or "skipped": report "All watchlist companies done: disable linkedin-connect-daily" and end.
+1. **Pick companies**: the watchlist is `~/.claude/job-hunt/data/companies.json` (`name`, `region`; home-country and foreign companies alike). Never the current employer or an excluded company (rules.md 0). Phase 1: companies with 0 people in state, those with a live Jobs sheet row first (`get_values` "Jobs!B:O", Status Ready to apply / Approved / Apply on site / Applied), then watchlist order; 1 person each. Phase 2: "open" companies with 1-4 people, the same order, filling each to 5 before moving on.
+2. **Find people** (Claude in Chrome, signed-in LinkedIn; rules.md 1, 8, 9): people search `https://www.linkedin.com/search/results/people/?keywords=<company> <the user's target role>` and `<company> recruiter` (or `talent acquisition`). Mix per company: about 3 peers in the user's function (same role, its manager) and 2 HR/recruiters by the time it is full; in Phase 1 alternate peer / recruiter across companies. **Offices the user targets:** if the user wants roles abroad, at least half of a company's people come from its offices in the countries in `profile.search.regions`, favouring offices that hire for the user's function; otherwise prefer offices in the user's home country and city. Then prefer 2nd-degree and alumni of the user's school (`config.school_for_alumni_search`). Their profile must show they work at that company now. Skip: anyone already 1st-degree or with a pending invite, anyone in `outreach.json` or already in this state file, anyone at the current employer, profiles where Connect needs the user's email address, and "Follow"-only profiles.
+3. **Send, one at a time** (rules.md 5): open the profile, Connect (it may be under "More"), choose **"Send without a note"**, confirm the button changes to "Pending". Then add the person to state and `invites[today] += 1`. Never add a note, never message.
+4. **Stop at once** on any LinkedIn warning, weekly-limit notice, CAPTCHA or "verify you're human" (never solve one): save state and report it to the user.
+5. **Report** (three lines): phase, people sent (name, title, peer/hr, country, company), invites today / this week, companies with at least 1 person and companies full, out of the watchlist size.

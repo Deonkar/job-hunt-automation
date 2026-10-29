@@ -1,0 +1,755 @@
+[
+  {
+    "name": "Razorpay",
+    "segment": "India fintech",
+    "region": "IN",
+    "careers": "https://razorpay.com/jobs/",
+    "ats": "greenhouse",
+    "board": "razorpaysoftwareprivatelimited",
+    "open_jobs": 25
+  },
+  {
+    "name": "Cashfree Payments",
+    "segment": "India fintech",
+    "region": "IN",
+    "careers": "https://www.cashfree.com/careers/",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "Juspay",
+    "segment": "India fintech",
+    "region": "IN",
+    "careers": "https://juspay.io/careers",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "PhonePe",
+    "segment": "India fintech",
+    "region": "IN",
+    "careers": "https://www.phonepe.com/careers/",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "Groww",
+    "segment": "India fintech",
+    "region": "IN",
+    "careers": "https://groww.in/careers",
+    "ats": "greenhouse",
+    "board": "groww",
+    "open_jobs": 10
+  },
+  {
+    "name": "CRED",
+    "segment": "India fintech",
+    "region": "IN",
+    "careers": "https://careers.cred.club/",
+    "ats": "lever",
+    "board": "cred",
+    "open_jobs": 9
+  },
+  {
+    "name": "Zerodha",
+    "segment": "India fintech",
+    "region": "IN",
+    "careers": "https://zerodha.com/careers/",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "Setu",
+    "segment": "India fintech",
+    "region": "IN",
+    "careers": "https://setu.co/careers",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "slice",
+    "segment": "India fintech",
+    "region": "IN",
+    "careers": "https://www.sliceit.com/careers",
+    "ats": "greenhouse",
+    "board": "slice",
+    "open_jobs": 26
+  },
+  {
+    "name": "Jar",
+    "segment": "India fintech",
+    "region": "IN",
+    "careers": "https://www.myjar.app/careers",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "Paytm",
+    "segment": "India fintech",
+    "region": "IN",
+    "careers": "https://paytm.com/careers/",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "Zepto",
+    "segment": "India product",
+    "region": "IN",
+    "careers": "https://www.zeptonow.com/careers",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "Swiggy",
+    "segment": "India product",
+    "region": "IN",
+    "careers": "https://careers.swiggy.com/",
+    "ats": "smartrecruiters",
+    "board": "swiggy",
+    "open_jobs": 196
+  },
+  {
+    "name": "Eternal (Zomato, Blinkit)",
+    "segment": "India product",
+    "region": "IN",
+    "careers": "https://www.zomato.com/careers",
+    "ats": "lever",
+    "board": "eternal",
+    "open_jobs": 4
+  },
+  {
+    "name": "Meesho",
+    "segment": "India product",
+    "region": "IN",
+    "careers": "https://www.meesho.io/jobs",
+    "ats": "lever",
+    "board": "meesho",
+    "open_jobs": 59
+  },
+  {
+    "name": "Flipkart",
+    "segment": "India product",
+    "region": "IN",
+    "careers": "https://www.flipkartcareers.com/",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "Postman",
+    "segment": "India product",
+    "region": "IN",
+    "careers": "https://www.postman.com/company/careers/",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "BrowserStack",
+    "segment": "India product",
+    "region": "IN",
+    "careers": "https://www.browserstack.com/careers",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "Freshworks",
+    "segment": "India product",
+    "region": "IN",
+    "careers": "https://www.freshworks.com/company/careers/",
+    "ats": "smartrecruiters",
+    "board": "Freshworks",
+    "open_jobs": 127
+  },
+  {
+    "name": "Atlan",
+    "segment": "India product",
+    "region": "IN",
+    "careers": "https://atlan.com/careers/",
+    "ats": "ashby",
+    "board": "atlan",
+    "open_jobs": 7
+  },
+  {
+    "name": "Hasura",
+    "segment": "India product",
+    "region": "IN",
+    "careers": "https://hasura.io/careers",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "Sarvam AI",
+    "segment": "AI startup",
+    "region": "IN",
+    "careers": "https://www.sarvam.ai/careers",
+    "ats": "ashby",
+    "board": "sarvam",
+    "open_jobs": 42
+  },
+  {
+    "name": "Rippling",
+    "segment": "Big tech / scale-up",
+    "region": "IN",
+    "careers": "https://www.rippling.com/careers",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "Amazon",
+    "segment": "FAANG / big tech",
+    "region": "IN",
+    "careers": "https://www.amazon.jobs/",
+    "ats": "amazon",
+    "board": "amazon",
+    "open_jobs": 10000
+  },
+  {
+    "name": "Microsoft",
+    "segment": "FAANG / big tech",
+    "region": "IN",
+    "careers": "https://careers.microsoft.com/",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "Google",
+    "segment": "FAANG / big tech",
+    "region": "IN",
+    "careers": "https://www.google.com/about/careers/applications/jobs/results",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "Meta",
+    "segment": "FAANG / big tech",
+    "region": "US",
+    "careers": "https://www.metacareers.com/jobs",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "Apple",
+    "segment": "FAANG / big tech",
+    "region": "IN",
+    "careers": "https://jobs.apple.com/",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "Uber",
+    "segment": "FAANG / big tech",
+    "region": "IN",
+    "careers": "https://www.uber.com/us/en/careers/",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null,
+    "note": "feed smartrecruiters:uber had 1 jobs; likely wrong board, check careers page"
+  },
+  {
+    "name": "Atlassian",
+    "segment": "FAANG / big tech",
+    "region": "IN",
+    "careers": "https://www.atlassian.com/company/careers/all-jobs",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "Adobe",
+    "segment": "FAANG / big tech",
+    "region": "IN",
+    "careers": "https://careers.adobe.com/",
+    "ats": "workday",
+    "board": "adobe.wd5.myworkdayjobs.com|adobe|external_experienced",
+    "open_jobs": 303
+  },
+  {
+    "name": "Salesforce",
+    "segment": "FAANG / big tech",
+    "region": "IN",
+    "careers": "https://careers.salesforce.com/",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "NVIDIA",
+    "segment": "FAANG / big tech",
+    "region": "IN",
+    "careers": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+    "ats": "workday",
+    "board": "nvidia.wd5.myworkdayjobs.com|nvidia|NVIDIAExternalCareerSite",
+    "open_jobs": 2000
+  },
+  {
+    "name": "PayPal",
+    "segment": "FAANG / big tech",
+    "region": "IN",
+    "careers": "https://careers.pypl.com/",
+    "ats": "workday",
+    "board": "paypal.wd1.myworkdayjobs.com|paypal|jobs",
+    "open_jobs": 336
+  },
+  {
+    "name": "Walmart Global Tech",
+    "segment": "FAANG / big tech",
+    "region": "IN",
+    "careers": "https://careers.walmart.com/",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "Stripe",
+    "segment": "Big tech / scale-up",
+    "region": "IN",
+    "careers": "https://stripe.com/jobs",
+    "ats": "greenhouse",
+    "board": "stripe",
+    "open_jobs": 729
+  },
+  {
+    "name": "Databricks",
+    "segment": "Big tech / scale-up",
+    "region": "IN",
+    "careers": "https://www.databricks.com/company/careers",
+    "ats": "greenhouse",
+    "board": "databricks",
+    "open_jobs": 897
+  },
+  {
+    "name": "Confluent",
+    "segment": "Big tech / scale-up",
+    "region": "IN",
+    "careers": "https://careers.confluent.io/",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null,
+    "note": "feed ashby:confluent had 0 jobs; likely wrong board, check careers page"
+  },
+  {
+    "name": "MongoDB",
+    "segment": "Big tech / scale-up",
+    "region": "IN",
+    "careers": "https://www.mongodb.com/careers",
+    "ats": "greenhouse",
+    "board": "mongodb",
+    "open_jobs": 401
+  },
+  {
+    "name": "Cloudflare",
+    "segment": "Big tech / scale-up",
+    "region": "IN",
+    "careers": "https://www.cloudflare.com/careers/jobs/",
+    "ats": "greenhouse",
+    "board": "cloudflare",
+    "open_jobs": 434
+  },
+  {
+    "name": "Coinbase",
+    "segment": "Big tech / scale-up",
+    "region": "IN",
+    "careers": "https://www.coinbase.com/careers/positions",
+    "ats": "greenhouse",
+    "board": "coinbase",
+    "open_jobs": 226
+  },
+  {
+    "name": "Twilio",
+    "segment": "Big tech / scale-up",
+    "region": "IN",
+    "careers": "https://www.twilio.com/en-us/company/jobs",
+    "ats": "greenhouse",
+    "board": "twilio",
+    "open_jobs": 133
+  },
+  {
+    "name": "Okta",
+    "segment": "Big tech / scale-up",
+    "region": "IN",
+    "careers": "https://www.okta.com/company/careers/",
+    "ats": "greenhouse",
+    "board": "okta",
+    "open_jobs": 385
+  },
+  {
+    "name": "GitLab",
+    "segment": "Remote-first",
+    "region": "Remote",
+    "careers": "https://about.gitlab.com/jobs/all-jobs/",
+    "ats": "greenhouse",
+    "board": "gitlab",
+    "open_jobs": 229
+  },
+  {
+    "name": "Deel",
+    "segment": "Remote-first",
+    "region": "Remote",
+    "careers": "https://www.deel.com/careers",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null,
+    "note": "feed ashby:deel had 0 jobs; likely wrong board, check careers page"
+  },
+  {
+    "name": "Remote",
+    "segment": "Remote-first",
+    "region": "Remote",
+    "careers": "https://remote.com/careers",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null,
+    "note": "feed greenhouse:remote had 2 jobs; likely wrong board, check careers page"
+  },
+  {
+    "name": "Vercel",
+    "segment": "Remote-first",
+    "region": "Remote",
+    "careers": "https://vercel.com/careers",
+    "ats": "greenhouse",
+    "board": "vercel",
+    "open_jobs": 93
+  },
+  {
+    "name": "Supabase",
+    "segment": "Remote-first",
+    "region": "Remote",
+    "careers": "https://supabase.com/careers",
+    "ats": "ashby",
+    "board": "supabase",
+    "open_jobs": 54
+  },
+  {
+    "name": "PostHog",
+    "segment": "Remote-first",
+    "region": "Remote",
+    "careers": "https://posthog.com/careers",
+    "ats": "ashby",
+    "board": "posthog",
+    "open_jobs": 10
+  },
+  {
+    "name": "Zapier",
+    "segment": "Remote-first",
+    "region": "Remote",
+    "careers": "https://zapier.com/jobs",
+    "ats": "ashby",
+    "board": "zapier",
+    "open_jobs": 11
+  },
+  {
+    "name": "Automattic",
+    "segment": "Remote-first",
+    "region": "Remote",
+    "careers": "https://automattic.com/work-with-us/",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "Canonical",
+    "segment": "Remote-first",
+    "region": "Remote",
+    "careers": "https://canonical.com/careers",
+    "ats": "greenhouse",
+    "board": "canonical",
+    "open_jobs": 309
+  },
+  {
+    "name": "OpenAI",
+    "segment": "AI startup",
+    "region": "US",
+    "careers": "https://openai.com/careers/",
+    "ats": "ashby",
+    "board": "openai",
+    "open_jobs": 814
+  },
+  {
+    "name": "Anthropic",
+    "segment": "AI startup",
+    "region": "US",
+    "careers": "https://www.anthropic.com/careers",
+    "ats": "greenhouse",
+    "board": "anthropic",
+    "open_jobs": 657
+  },
+  {
+    "name": "Perplexity",
+    "segment": "AI startup",
+    "region": "US",
+    "careers": "https://www.perplexity.ai/hub/careers",
+    "ats": "ashby",
+    "board": "perplexity",
+    "open_jobs": 134
+  },
+  {
+    "name": "Cohere",
+    "segment": "AI startup",
+    "region": "US",
+    "careers": "https://cohere.com/careers",
+    "ats": "ashby",
+    "board": "cohere",
+    "open_jobs": 116
+  },
+  {
+    "name": "ElevenLabs",
+    "segment": "AI startup",
+    "region": "Remote",
+    "careers": "https://elevenlabs.io/careers",
+    "ats": "ashby",
+    "board": "elevenlabs",
+    "open_jobs": 151
+  },
+  {
+    "name": "Mistral AI",
+    "segment": "AI startup",
+    "region": "EU",
+    "careers": "https://mistral.ai/careers",
+    "ats": "ashby",
+    "board": "mistral.ai",
+    "open_jobs": 217
+  },
+  {
+    "name": "Glean",
+    "segment": "AI startup",
+    "region": "IN",
+    "careers": "https://www.glean.com/careers",
+    "ats": "greenhouse",
+    "board": "gleanwork",
+    "open_jobs": 133
+  },
+  {
+    "name": "Anysphere (Cursor)",
+    "segment": "AI startup",
+    "region": "US",
+    "careers": "https://cursor.com/careers",
+    "ats": "ashby",
+    "board": "cursor",
+    "open_jobs": 133
+  },
+  {
+    "name": "Zalando",
+    "segment": "Sponsor abroad",
+    "region": "DE",
+    "careers": "https://jobs.zalando.com/",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "Delivery Hero",
+    "segment": "Sponsor abroad",
+    "region": "DE",
+    "careers": "https://careers.deliveryhero.com/",
+    "ats": "smartrecruiters",
+    "board": "deliveryhero",
+    "open_jobs": 935
+  },
+  {
+    "name": "N26",
+    "segment": "Sponsor abroad",
+    "region": "DE",
+    "careers": "https://n26.com/en/careers",
+    "ats": "greenhouse",
+    "board": "n26",
+    "open_jobs": 35
+  },
+  {
+    "name": "Trade Republic",
+    "segment": "Sponsor abroad",
+    "region": "DE",
+    "careers": "https://traderepublic.com/careers",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null,
+    "note": "feed greenhouse:traderepublic had 0 jobs; likely wrong board, check careers page"
+  },
+  {
+    "name": "Celonis",
+    "segment": "Sponsor abroad",
+    "region": "DE",
+    "careers": "https://www.celonis.com/careers/",
+    "ats": "greenhouse",
+    "board": "celonis",
+    "open_jobs": 202
+  },
+  {
+    "name": "HelloFresh",
+    "segment": "Sponsor abroad",
+    "region": "DE",
+    "careers": "https://careers.hellofresh.com/",
+    "ats": "greenhouse",
+    "board": "hellofresh",
+    "open_jobs": 403
+  },
+  {
+    "name": "Personio",
+    "segment": "Sponsor abroad",
+    "region": "DE",
+    "careers": "https://www.personio.com/about-personio/careers/",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "GetYourGuide",
+    "segment": "Sponsor abroad",
+    "region": "DE",
+    "careers": "https://careers.getyourguide.com/",
+    "ats": "greenhouse",
+    "board": "getyourguide",
+    "open_jobs": 70
+  },
+  {
+    "name": "Adyen",
+    "segment": "Sponsor abroad",
+    "region": "NL",
+    "careers": "https://careers.adyen.com/",
+    "ats": "greenhouse",
+    "board": "adyen",
+    "open_jobs": 246
+  },
+  {
+    "name": "Booking.com",
+    "segment": "Sponsor abroad",
+    "region": "NL",
+    "careers": "https://jobs.booking.com/",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "Mollie",
+    "segment": "Sponsor abroad",
+    "region": "NL",
+    "careers": "https://www.mollie.com/careers",
+    "ats": "ashby",
+    "board": "mollie",
+    "open_jobs": 45
+  },
+  {
+    "name": "bunq",
+    "segment": "Sponsor abroad",
+    "region": "NL",
+    "careers": "https://www.bunq.com/careers",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "Picnic",
+    "segment": "Sponsor abroad",
+    "region": "NL",
+    "careers": "https://jobs.picnic.app/",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null,
+    "note": "feed smartrecruiters:picnic had 2 jobs; likely wrong board, check careers page"
+  },
+  {
+    "name": "Elastic",
+    "segment": "Sponsor abroad",
+    "region": "NL",
+    "careers": "https://www.elastic.co/careers/",
+    "ats": "greenhouse",
+    "board": "elastic",
+    "open_jobs": 380
+  },
+  {
+    "name": "Monzo",
+    "segment": "Sponsor abroad",
+    "region": "UK",
+    "careers": "https://monzo.com/careers",
+    "ats": "greenhouse",
+    "board": "monzo",
+    "open_jobs": 71
+  },
+  {
+    "name": "Revolut",
+    "segment": "Sponsor abroad",
+    "region": "UK",
+    "careers": "https://www.revolut.com/careers/",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  },
+  {
+    "name": "Wise",
+    "segment": "Sponsor abroad",
+    "region": "UK",
+    "careers": "https://wise.jobs/",
+    "ats": "smartrecruiters",
+    "board": "wise",
+    "open_jobs": 422
+  },
+  {
+    "name": "Checkout.com",
+    "segment": "Sponsor abroad",
+    "region": "UK",
+    "careers": "https://www.checkout.com/careers",
+    "ats": "ashby",
+    "board": "checkout.com",
+    "open_jobs": 174
+  },
+  {
+    "name": "GoCardless",
+    "segment": "Sponsor abroad",
+    "region": "UK",
+    "careers": "https://gocardless.com/about/careers/",
+    "ats": "greenhouse",
+    "board": "gocardless",
+    "open_jobs": 32
+  },
+  {
+    "name": "Deliveroo",
+    "segment": "Sponsor abroad",
+    "region": "UK",
+    "careers": "https://careers.deliveroo.co.uk/",
+    "ats": "greenhouse",
+    "board": "deliveroo",
+    "open_jobs": 225
+  },
+  {
+    "name": "Canva",
+    "segment": "Sponsor abroad",
+    "region": "AU",
+    "careers": "https://www.lifeatcanva.com/en/jobs/",
+    "ats": "smartrecruiters",
+    "board": "canva",
+    "open_jobs": 111
+  },
+  {
+    "name": "Airwallex",
+    "segment": "Sponsor abroad",
+    "region": "AU",
+    "careers": "https://careers.airwallex.com/",
+    "ats": "ashby",
+    "board": "airwallex",
+    "open_jobs": 497
+  },
+  {
+    "name": "SafetyCulture",
+    "segment": "Sponsor abroad",
+    "region": "AU",
+    "careers": "https://safetyculture.com/careers/",
+    "ats": "chrome",
+    "board": null,
+    "open_jobs": null
+  }
+]
